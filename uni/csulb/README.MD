@@ -5,7 +5,7 @@
 - [FAQs](https://github.com/anuditverma/know-your-uni/new/main#faq)
 
 
-## FAQ1. 
+## FAQs.
 #### 1. Why CSULB?
   - The curriculum is decent at Long Beach and is not hectic so you get a lot of time to hone your skills to get industry-ready. If you’re on a budget and getting into the industry is your main goal LB is a good choice.
 The only drawback here is that you don’t have a co-op. So you only have the summer where you can intern. 
