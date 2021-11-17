@@ -2,7 +2,7 @@
 
 ## Content
 - Introduction
-- [FAQs](https://github.com/anuditverma/know-your-uni/new/main#faq)
+- [FAQs](https://github.com/anuditverma/know-your-uni/tree/main/uni/csulb#faqs)
 
 
 ## FAQs.
